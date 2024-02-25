@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **21521571@gm.uit.edu.vn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tr%C3%AD-tr%C6%B0%C6%A1ng-nguy%E1%BB%85n-ph%C6%B0%E1%BB%9Bc-b081ab286/](https://www.linkedin.com/in/tr%C3%AD-tr%C6%B0%C6%A1ng-nguy%E1%BB%85n-ph%C6%B0%E1%BB%9Bc-b081ab286/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tri-truong-nguyen-phuoc-b081ab286/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
