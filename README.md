@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Trương Nguyễn Phước Trí</h1>
 <h3 align="center">A software engineering student from the University of Information Technology</h3>
 
-- 🌱 I’m currently learning **Next JS, React JS, React Native, HTML5, CSS3, Tailwind, Bootstrap, NodeJS**
+- 🌱 I’m currently learning **Next JS, React JS, React Native, Redux, HTML5, CSS3, Material-UI, NodeJS, ExpressJS, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PhuocTri0106and1608](https://github.com/PhuocTri0106and1608)
 
-- 💬 Ask me about **Next JS, React JS, React Native, HTML5, CSS3, Tailwind, Bootstrap, NodeJS**
+- 💬 Ask me about **Next JS, React JS, React Native, Redux, HTML5, CSS3, Material-UI, NodeJS, ExpressJS, Docker**
 
 - 📫 How to reach me **21521571@gm.uit.edu.vn**
 
